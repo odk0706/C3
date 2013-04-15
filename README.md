@@ -1,4 +1,10 @@
 C3
 ==
+Project: "De Hartige Hap"
 
-Sub-systeem De Hartige Hap: Keuken
+==
+
+O. De Klerk <br>
+C. Van Kersten<br>
+D. Munckhof<br>
+J. van Gorp<br>
